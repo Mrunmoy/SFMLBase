@@ -1,0 +1,2 @@
+# SFMLBase
+SFML Base App
